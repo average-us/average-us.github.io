@@ -6,3 +6,8 @@ plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-paginate
+
+# Add these lines for Chirpy's pagination:
+paginate: 10
+paginate_path: '/page:num/'
