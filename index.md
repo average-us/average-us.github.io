@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "roe blog"
+title: roe blog
 author_profile: true
 
 header:
