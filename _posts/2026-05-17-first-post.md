@@ -1,18 +1,16 @@
 ---
 layout: single
-title: "first post"
+title: "First Post"
 date: 2026-05-17
 categories:
   - Blogging
 tags:
   - Welcome
   - Jekyll
-excerpt: "first post yay"
+excerpt: "First post yay!"
 ---
 
-hello world
-
-![kitty](/assets/images/Screenshot 2026-03-31 at 10.31.20 PM.jpg)
+Hello World!
 
 
 
