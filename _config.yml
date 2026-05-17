@@ -1,0 +1,8 @@
+title: My Personal Blog
+description: A blog about my journey.
+remote_theme: cotes2020/jekyll-theme-chirpy
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
