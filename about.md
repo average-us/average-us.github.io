@@ -5,7 +5,5 @@ permalink: /about/
 author_profile: true
 ---
 
-### Welcome to my blog!
-
-gurt: yo
+im a high schooler that likes programming and robotics
 
