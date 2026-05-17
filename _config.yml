@@ -6,6 +6,8 @@ repository: "average-us/average-us.github.io"
 url: "https://github.io"
 baseurl: ""
 
+minimal_mistakes_skin: "air"
+
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
