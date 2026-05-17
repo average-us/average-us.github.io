@@ -1,6 +1,6 @@
 title: My Personal Blog
 description: A blog about my journey.
-remote_theme: cotes2020/jekyll-theme-chirpy
+remote_theme: mmistakes/minimal-mistakes
 
 plugins:
   - jekyll-remote-theme
