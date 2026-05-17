@@ -5,5 +5,5 @@ permalink: /about/
 author_profile: true
 ---
 
-im a high schooler that likes programming and robotics
+I'm a high schooler that likes programming and robotics.
 
