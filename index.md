@@ -4,4 +4,4 @@ title: "average-us blog"
 author_profile: true
 ---
 
-Welcome to my personal blog, where I write about my projects, FRC, and other cool stuff.
+Welcome to my personal blog, where I write about my projects, FRC programming, and other cool stuff.
