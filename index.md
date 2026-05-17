@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "average-us blog"
+title: ""
 author_profile: true
 
 header:
