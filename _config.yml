@@ -7,7 +7,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-include-cache # <-- Add this line
 
-# Add these lines for Chirpy's pagination:
 paginate: 10
 paginate_path: '/page:num/'
