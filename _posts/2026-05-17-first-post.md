@@ -10,7 +10,7 @@ tags:
 excerpt: "first post yay"
 ---
 
-hello world!
+hello world
 
 ![kitty](/assets/images/Screenshot 2026-03-31 at 10.31.20 PM.jpg)
 
