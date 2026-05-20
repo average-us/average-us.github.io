@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/black.png
 ---
 
-Hi, I'm roe, and welcome to my personal blog, where I write about my projects, FRC programming, and other cool stuff.
+Hi, I'm roe, and welcome to my personal blog, where I write about my projects, FRC programming, and other cool stuff. Make sure to check out my blog posts.
 
 ***
 
