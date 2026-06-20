@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "projects"
-permalink: /projects/song-rec-project"
+permalink: "/projects/song-rec-project"
 author_profile: true
 ---
 
