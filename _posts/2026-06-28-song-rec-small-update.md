@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Song Recommender Small Update"
-date: 2026-06-20
+date: 2026-06-28
 categories:
   - Blogging
   - song-recommender-project
