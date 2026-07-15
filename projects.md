@@ -7,4 +7,4 @@ author_profile: true
 
 ### [Song Recommender Project (WIP)](https://average-us.github.io/projects/song-rec-project)
 
-Song recommender that extracts audio features from songs and finds similar songs using cosine similarity.
+Song recommender that uses a CatBoost model and my own listening data in order to recommend new songs.

@@ -8,7 +8,7 @@ author_profile: true
 
 ### Song Recommender Project (WIP)
 
-Song recommender that extracts audio features from songs and finds similar songs using cosine similarity. Started because I wanted to try making my own Spotify-esque recommender that I can use to find new songs that I would like.
+Song recommender that utilizes Spotify API and machine learning in order to recommend songs that it predicts I will not skip (and therefore enjoy). Started because I wanted to try making my own Spotify-esque recommender that I can use to find new songs that I would like.
 
 ### [GitHub Link](https://github.com/average-us/music-similarity)
 
